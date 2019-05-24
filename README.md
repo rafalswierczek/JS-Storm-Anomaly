@@ -10,3 +10,5 @@ Simple JavaScript storm animations
 - config options
 - sounds
 - simple code without nasty JS
+
+>[Live demo](http://gsaproject.pl/JS-Storm-Anomaly/storm.html)
